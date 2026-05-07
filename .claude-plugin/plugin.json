@@ -1,0 +1,11 @@
+{
+  "name": "careerpowers",
+  "description": "Career intelligence for professionals. Get insights, advice, and personalized career guidance.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dana Aonofriesei"
+  },
+  "homepage": "https://tendcareer.com",
+  "repository": "https://github.com/danaaonofriesei/careerpowers",
+  "license": "MIT"
+}

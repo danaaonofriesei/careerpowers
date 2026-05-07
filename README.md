@@ -1,6 +1,5 @@
 # careerpowers
 
-Career intelligence for people who are ready for what comes next.
 
 careerpowers gives professionals a set of AI-powered skills that produce concrete, honest career documents — a performance review, a positioning brief, a capital snapshot, a goals plan.
 
@@ -23,23 +22,19 @@ Four skills that each produce a document you can actually use:
 
 ## Install
 
-**Using Claude.ai or the Claude desktop app**
+**Using Claude.ai or the Claude interface - no installation needed**
 
-Go to Settings → Skills → Upload a skill, and upload the careerpowers folder. Or paste the contents of any skill file directly into a chat and ask Claude to run it.
+Open any skill on GitHub — start with skills/career-capital/SKILL.md
+Click Raw → select all → copy
+Paste into a new Claude chat
+Add your career details below it and ask Claude to run it
 
 **Using Claude Code**
 
 ```bash
-/plugin marketplace add yourusername/careerpowers
-/plugin install careerpowers
+git clone https://github.com/danaaonofriesei/careerpowers.git
+claude --plugin-dir ./careerpowers
 ```
-
-Or manually:
-```bash
-git clone https://github.com/yourusername/careerpowers.git
-cd careerpowers
-```
-Then run `/reload-plugins` in Claude Code.
 
 ---
 
