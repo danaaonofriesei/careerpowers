@@ -1,6 +1,7 @@
 # careerpowers
 
-careerpowers gives professionals a set of AI-powered skills that produce concrete, honest career documents — a performance review, a positioning brief, a capital snapshot, a goals plan.
+
+careerpowers gives senior professionals a set of AI-powered skills that produce concrete, honest career documents — a performance review, a positioning brief, a capital snapshot, a goals plan.
 
 > **Not in active job search mode?** Good. That's the point. careerpowers is built for the ongoing work of understanding your career — not the panic moment of a job hunt.
 
@@ -58,7 +59,7 @@ Or describe what you're trying to figure out — careerpowers will take it from 
 
 ## Who this is for
 
- Professionals across functions — engineers, PMs, designers, ops leaders, finance, HR, legal, researchers — who have built more than they can see clearly anymore. People who want honest pattern recognition, not flattery.
+Professionals across functions — engineers, PMs, designers, ops leaders, finance, HR, legal, researchers — who have built more than they can see clearly anymore.People who want honest pattern recognition, not flattery.
 
 ---
 
@@ -76,7 +77,7 @@ Gemini CLI support also coming — same skills, both agents.
 
 ## Philosophy
 
-Mid to senior professionals don't lack ambition or capability. They lack clarity — about what they've built, how they're perceived, and what move makes sense next. careerpowers is built for that gap. Not the panic moment of an active job search. The ongoing work of understanding your career as an asset.
+Mid to senior professionals don't lack ambition or capability. They lack clarity — about what they've built, how they're perceived, and what move makes sense next. careerpowers is built for that gap. The ongoing work of understanding your career as an asset.
 
 ---
 
@@ -98,4 +99,4 @@ MIT
 
 ---
 
-Built by [Dana Aonofriesei](https://danaaonofriesei.substack.com/) · [Tend](https://tendcareer.com) — career intelligence for professionals
+Built by [Dana Aonofriesei](https://danaaonofriesei.substack.com/) · [Tend](https://tendcareer.com) — career intelligence for senior professionals
