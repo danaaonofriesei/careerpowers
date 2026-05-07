@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    {
+      "name": "careerpowers",
+      "description": "Career intelligence for professionals. Four skills that produce concrete, honest career documents — a capital snapshot, positioning brief, goals plan, and performance review.",
+      "homepage": "https://github.com/danaaonofriesei/careerpowers",
+      "source": {
+        "type": "path",
+        "path": "."
+      }
+    }
+  ]
+}
