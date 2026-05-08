@@ -109,3 +109,7 @@ After the document, add a short section (not saved to the main doc):
 - **For senior leaders**: Lead with strategic bets, cross-functional influence, and what they decided *not* to do
 - **Tone**: Direct, first-person, professional. Not corporate. Not self-aggrandizing.
 - **Length**: 2–3 pages is right. Anything longer loses the reader.
+
+## If you don't have the user's career history yet
+Ask them to paste their CV, LinkedIn profile, or a quick career summary 
+before proceeding. One ask, then run the skill.

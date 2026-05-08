@@ -124,3 +124,7 @@ The phrase, framing, or habit that's underselling them right now. Again, one thi
 - **The narrative angles should feel like them** — if they'd never say it, it won't get used
 - **No jargon** — "seasoned professional with a proven track record" is the enemy. Specific, concrete, human.
 - **Length**: The brief should fit on two pages. Discipline is the point.
+
+## If you don't have the user's career history yet
+Ask them to paste their CV, LinkedIn profile, or a quick career summary 
+before proceeding. One ask, then run the skill.

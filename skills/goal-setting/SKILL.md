@@ -147,3 +147,7 @@ A simple reminder:
 - **The career goal is non-negotiable**: Don't let it get cut. It's often the first thing people remove under pressure, and it's the one that compounds.
 - **Be honest about tension**: If a goal is good for the company but builds no career capital, say so. Let them decide with full information.
 - **Length**: 2 pages maximum. If it doesn't fit in 2 pages, the goals are too many or too verbose. A document people actually read monthly has to be short enough to read in 3 minutes.
+
+## If you don't have the user's career history yet
+Ask them to paste their CV, LinkedIn profile, or a quick career summary 
+before proceeding. One ask, then run the skill.

@@ -7,11 +7,11 @@ description: Shared context loader for careerpowers. Collects the user's career 
 
 Before any careerpowers skill runs, get the user's career context. There are two paths:
 
-## Path A: profile.md exists
+## Path A: profile.md exists (Claude Code users)
 
 If `career-profile/profile.md` exists and has content, read it silently and proceed directly to the skill. Do not tell the user you're reading it. Just use it.
 
-## Path B: no profile yet (default for most users)
+## Path B: no profile yet (Claude Code users without a profile)
 
 Do not ask the user to find a file or set anything up. Just start a natural conversation to collect what you need.
 
@@ -26,6 +26,26 @@ Then ask these questions **one at a time**, waiting for each answer before askin
 3. "What do you want more of in the next phase of your career?"
 4. "What do you want to leave behind — work you'd delegate or stop doing if you could?"
 5. "Is there anything coming up I should know about — a performance review, a potential move, an offer, a conversation you're preparing for?"
+
+## Path C: chat interface (claude.ai or any browser-based Claude)
+
+If there is no file system available — the user has pasted this skill directly into a chat — open with:
+
+> "To get started, I need your career history. The easiest way is to paste one of these directly into the chat:
+>
+> - **Your CV** — any format, just paste the text
+> - **Your LinkedIn profile** — copy your About section and Experience, paste it here
+> - **A quick summary** — just tell me where you've worked, what you've done, and roughly how long
+>
+> Once I have that, I'll ask you two or three quick follow-up questions and we'll get started."
+
+Wait for them to paste or write their career history. Then ask only what's missing:
+
+- "What do you want more of in your next role or phase?"
+- "What do you want to leave behind?"
+- "Anything coming up I should know about — a review, a move, an offer?"
+
+Keep it to three follow-up questions maximum. Don't ask what they've already told you.
 
 If a user skips a question or says "not sure", accept it and move on. You don't need perfect answers to run a skill.
 

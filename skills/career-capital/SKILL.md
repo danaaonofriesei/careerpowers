@@ -146,3 +146,7 @@ A single question that this assessment surfaces — something worth thinking abo
 - **Momentum is the most important dimension** for people who already have strong capital in other areas — don't bury it
 - **The three moves should be genuinely strategic** — not "update your LinkedIn" unless that's actually the highest leverage thing they could do
 - **Length**: Two to three pages. The capital snapshot is meant to be revisited — dense enough to be useful, short enough to be readable
+
+## If you don't have the user's career history yet
+Ask them to paste their CV, LinkedIn profile, or a quick career summary 
+before proceeding. One ask, then run the skill.
