@@ -22,11 +22,11 @@ Four skills that each produce a document you can actually use:
 
 ## Install
 
-**Claude Code — add as a marketplace**
+**Claude Code**
+```bash
+git clone https://github.com/danaaonofriesei/careerpowers.git
 ```
-/plugin marketplace add danaaonofriesei/careerpowers
-/plugin install careerpowers@danaaonofriesei-careerpowers
-```
+Open Claude Code in the careerpowers folder. The skills load automatically.
 
 **Claude.ai or any Claude interface — no installation needed**
 
