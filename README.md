@@ -7,17 +7,15 @@ careerpowers gives senior professionals a set of AI-powered skills that produce 
 
 ---
 
-## What you get
-
-Four skills that each produce a document you can actually use:
-
-| Command | Output |
+## What's included
+ 
+| Skill | What it produces |
 |---|---|
-| `capital` | A capital snapshot — what you've built, where your leverage sits, where the gaps are, and three moves that would compound |
-| `position` | A positioning brief — what you're known for, what you want to be known for, the gap, and three narrative angles to close it |
-| `goals` | A goals document — annual, quarterly, and monthly SMART goals aligned to your role and your career trajectory |
-| `review` | A structured performance self-review — achievements framed with impact, gaps owned, narrative arc for the conversation |
-
+| `career-capital` | A capital snapshot — what you've built, where your leverage sits, where the gaps are, and three moves that would compound |
+| `positioning-review` | A positioning brief — what you're known for, what you want to be known for, the gap, and three narrative angles to close it |
+| `goal-setting` | A goals document — annual, quarterly, and monthly SMART goals aligned to your role and your career trajectory |
+| `performance-review` | A structured performance self-review — achievements framed with impact, gaps owned, narrative arc for the conversation |
+ 
 ---
 
 ## Install
@@ -49,12 +47,11 @@ Run careerpowers capital
 Or describe what you're trying to figure out — careerpowers will take it from there.
 
 **Suggested order if you're new:**
-
-1. `capital` — understand what you've built before setting direction
-2. `position` — get clear on how you're seen and how you want to be seen
-3. `goals` — set goals that serve you, not just your employer
-4. `review` — when review season comes, you'll already have the material
-
+ 
+1. `career-capital` — understand what you've built before setting direction
+2. `positioning-review` — get clear on how you're seen and how you want to be seen
+3. `goal-setting` — set goals that serve you, not just your employer
+4. `performance-review` — when review season comes, you'll already have the material
 ---
 
 ## Who this is for
